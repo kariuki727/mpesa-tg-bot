@@ -1,5 +1,5 @@
 # Mpesa telegram bot
-This is a bot that implements lipa na mpesa service by safaricom. You can test the bot here https://telegram.me/Chachazbot. This code is implemented using normal php structure with Guzzle and curl to send and receive responses to and from MPESA API and Telegram.
+This is a bot that implements lipa na mpesa service by safaricom. You can test the bot here https://telegram.me/bricekadbot. This code is implemented using normal php structure with Guzzle and curl to send and receive responses to and from MPESA API and Telegram.
 # Setup
 To use this code, ensure that you have bot registered and set up correctly. You can contact @BotFather for that.
 # Usage
