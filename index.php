@@ -2,7 +2,7 @@
 require_once( 'botpesa.php' );
 
 $botpesa=new BotPesa;
-    $apiKey = 'YOUR BOT API KEY'; //talk to bot father
+    $apiKey = 'YOUR BOT API KEY'; //talk to bot father on telegram
 	$apiURL = 'https://api.telegram.org/bot' . $apiKey . '/'; 
 	
 	
