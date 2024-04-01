@@ -1,6 +1,6 @@
 {
     "name": "Lipa Na Mpesa Bot",
-    "description": "Simple bot for Mpesa STK Push service",
+    "description": "Simple bot for Mpesa Payments service",
     "keywords": ["mpesa", "php","bot"],
     "license": "MIT",
     "type": "project",
